@@ -68,5 +68,5 @@ http://localhost:3000
 - 🎓 Graduation Year: 2026
 
 📎 Note
-This is a college project to demonstrate React component design, modular development, and basic state management using Zustand.
+This is a project to demonstrate React component design, modular development, and basic state management using Zustand.
 
